@@ -1,7 +1,8 @@
-layout: page
+---
+layout: post
 title: "Adding Bluetooth Apt-X Low Latency to AM/FM radio"
-permalink: /blueooth-radio-hack/
-
+permalink: /bluetooth-fmradio-hack/
+---
 
 # Adding Bluetooth Apt-X Low Latency to AM/FM radio
 
