@@ -18,3 +18,5 @@ fields:
   description: Publish page now
   hidden: false
   default: true
+pages:
+- _posts/hello-world-obligatory.md
