@@ -1,9 +1,9 @@
 ---
-layout: ''
+layout: page
 title: Async I/O
 
 ---
-\# Welcome to Asynchronous I/O 
+<h1> Welcome to Asynchronous I/O </h1>
 
 <ul>
 {% for post in site.posts %}
