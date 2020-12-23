@@ -3,7 +3,9 @@ layout: page
 title: Async I/O
 
 ---
-<h1> Welcome to Asynchronous I/O </h1>
+# Asynchronous I/O
+
+## At unexpected intervals, information on technology and culture.
 
 <ul>
 {% for post in site.posts %}
