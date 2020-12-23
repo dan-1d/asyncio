@@ -19,5 +19,5 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2020-12-23-adding-bluetooth-apt-x-low-latency-to-am-fm-radio.md
 - _posts/2020-12-23-hello-world-obligatory.md
-- _posts/adding-bluetooth-apt-x-low-latency-to-am-fm-radio.md
