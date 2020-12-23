@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Async I/O
-
+layout: default
 ---
 # Asynchronous I/O
 
