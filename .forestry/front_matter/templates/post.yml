@@ -3,11 +3,18 @@ label: Post
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
   label: title
 - type: text
   name: permalink
   label: permalink
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: published
+  type: boolean
+  label: published
+  description: Publish page now
+  hidden: false
+  default: true
