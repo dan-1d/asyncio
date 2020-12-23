@@ -12,4 +12,4 @@ fields:
   name: permalink
   label: permalink
 pages:
-- async-i-o.md
+- index.md
