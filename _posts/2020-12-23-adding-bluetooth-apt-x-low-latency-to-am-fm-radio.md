@@ -2,12 +2,30 @@
 tags:
 - electronics
 - bluetooth
-published: true
 title: Adding Bluetooth Apt-X Low Latency to AM/FM radio
+published: false
 
 ---
 # Goal
 
-Integrate a bluetooth Apt-X Low Latency receiver into an AM/FM portable radio to use for watching TV (with a matching Apt-X Low Latency Transmitter). Do it in a few hours' of effort using on-hand materials.
+The mission: integrate a bluetooth Apt-X Low Latency receiver into an AM/FM portable radio to use for watching TV (with a matching Apt-X Low Latency Transmitter); do it in a few hours' of effort using on-hand materials.
 
 ![](/uploads/bt-radio-final.jpg)
+
+I had a Panasonic RF-2400D, which is a fabulously simple audio device - it receives AM and FM radio. However, I wanted a higher-quality audio that a pretty terrible portable speaker I had been using for watching TV. The proposal was to integrate a Bluetooth Apt-X Low Latency receiver (BT-Rx) into this radio. A few problems needed to be solved:
+
+* Find the line-out audio signal from the RF processing chip
+  * Engineer a solution to multiplex the AM/FM signal and the line-out from the BT Rx to the audio amplifier.
+* Combine stereo output from Bluetooth to mono
+* Adapt the existing power sources to permanently power the BTRx
+* Physically mount the BTRx
+
+In short, all these things were done, although the power adaption took a few tries.
+
+## Stereo to Mono
+
+I had a spare 3.5mm plug. To this, I used two 470 ohm resistors on each channel, attached together to form the single output signal from the BTRx. For more details, see examples, such as at: [https://www.instructables.com/Simple-Way-to-Convert-Stereo-to-Mono/](https://www.instructables.com/Simple-Way-to-Convert-Stereo-to-Mono/ "https://www.instructables.com/Simple-Way-to-Convert-Stereo-to-Mono/")
+
+## Audio Signal Multiplexing
+
+I'll skip right to the good part.. investigating the circuit board. The heart of the RF audio processing is a Silicon Labs "SI48" series chip.  <TODO> which? [https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36](https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36 "https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36")
