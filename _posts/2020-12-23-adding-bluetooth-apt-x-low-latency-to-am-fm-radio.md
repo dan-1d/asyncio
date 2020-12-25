@@ -28,4 +28,10 @@ I had a spare 3.5mm plug. To this, I used two 470 ohm resistors on each channel,
 
 ## Audio Signal Multiplexing
 
-I'll skip right to the good part.. investigating the circuit board. The heart of the RF audio processing is a Silicon Labs "SI48" series chip.  <TODO> which? [https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36](https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36 "https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36")
+I'll skip right to the good part.. investigating the circuit board. The heart of the RF audio processing seems to be a Silicon Labs am/fm series chip.  While I couldn't parse the chip markings exactly, the chip pinout and function seem very close to Si4831 [https://www.silabs.com/documents/public/data-sheets/Si4831-35-B30.pdf](https://www.silabs.com/documents/public/data-sheets/Si4831-35-B30.pdf "https://www.silabs.com/documents/public/data-sheets/Si4831-35-B30.pdf")
+
+Other links:
+
+[https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36](https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36 "https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36")
+
+![](/uploads/pxl_20201212_181434846-2.jpg)
