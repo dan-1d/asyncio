@@ -46,3 +46,9 @@ The plan is to:
 * Attach wire from common terminal of SPDT to volume potentiometer.
 
 ![](/uploads/switch-schematic.svg)
+
+In the photo below, the PCB trace in blue is the original audio signal from RF IC to volume potentiometer. the small red line is where I cut the PCB with a hobby (Xacto) knife. The next photo shows the wires soldered on that lead to the switch.
+
+![](/uploads/inkedaudio-trace-orig-annotated_li.jpg)
+
+![](/uploads/audio-trace-zoom1.jpg)
