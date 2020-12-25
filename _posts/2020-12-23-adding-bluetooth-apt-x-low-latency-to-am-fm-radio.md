@@ -35,3 +35,5 @@ Other links:
 [https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36](https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36 "https://www.silabs.com/support/resources.p-audio-and-radio_multi-band-radios_si4820-24-25-31-35-36")
 
 ![](/uploads/pxl_20201212_181434846-2.jpg)
+
+Looking at the spec sheet, the two channels of audio output are pins 23 and 24. These signals trace through SMD resistors and combine similar to the 3.5mm plug above. Further tracing shows this signal enters the volume potentiometer. 
