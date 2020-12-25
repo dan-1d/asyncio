@@ -52,3 +52,7 @@ In the photo below, the PCB trace in blue is the original audio signal from RF I
 ![](/uploads/inkedaudio-trace-orig-annotated_li.jpg)
 
 ![](/uploads/audio-trace-zoom1.jpg)
+
+## Other possible hacks
+
+Note, that the RF IC and the PCB seem to have support for "Tone". One possibility is to add bass and treble controls.
