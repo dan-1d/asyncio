@@ -53,6 +53,14 @@ In the photo below, the PCB trace in blue is the original audio signal from RF I
 
 ![](/uploads/audio-trace-zoom1.jpg)
 
+## Power Source
+
+The original power of the BTRx was a 300-ish mAh lipo battery. It quickly wore out, and I hacked another battery in its place, but added a plug for easier future replacement. I leveraged this plug to easily power the BTRx from the Panasonic radio's source, which is ultimately 4 AA batteries.
+
+I first tried to tie into the regulated power used for the RF IC, and did. However, it turns out the voltage was just under the threshold the BTRx used to determine "low battery", so periodically, I got low battery warning sounds. Annoying.
+
+The second attempt 
+
 ## Other possible hacks
 
 Note, that the RF IC and the PCB seem to have support for "Tone". One possibility is to add bass and treble controls.
