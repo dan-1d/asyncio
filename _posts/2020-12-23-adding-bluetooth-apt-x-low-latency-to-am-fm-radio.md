@@ -40,7 +40,9 @@ Looking at the spec sheet, the two channels of audio output are pins 23 and 24. 
 
 The plan is to:
 
-*  cut the trace of this mono-signal from the Si chip, 
+* cut the trace of this mono-signal from the Si chip,
 * attach wire to original trace and to a switched terminal of a SPDT slide switch.
 * Attach BTRx output to other switched terminal
 * Attach wire from common terminal of SPDT to volume potentiometer.
+
+![](/uploads/switch-schematic.svg)
