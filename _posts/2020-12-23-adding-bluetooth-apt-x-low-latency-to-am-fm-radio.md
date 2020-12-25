@@ -36,4 +36,11 @@ Other links:
 
 ![](/uploads/pxl_20201212_181434846-2.jpg)
 
-Looking at the spec sheet, the two channels of audio output are pins 23 and 24. These signals trace through SMD resistors and combine similar to the 3.5mm plug above. Further tracing shows this signal enters the volume potentiometer. 
+Looking at the spec sheet, the two channels of audio output are pins 23 and 24. These signals trace through SMD resistors and combine similar to the 3.5mm plug above. Further tracing shows this signal enters the volume potentiometer. Bingo.
+
+The plan is to:
+
+*  cut the trace of this mono-signal from the Si chip, 
+* attach wire to original trace and to a switched terminal of a SPDT slide switch.
+* Attach BTRx output to other switched terminal
+* Attach wire from common terminal of SPDT to volume potentiometer.
