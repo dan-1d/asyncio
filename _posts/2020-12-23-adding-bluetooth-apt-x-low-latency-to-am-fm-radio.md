@@ -3,7 +3,7 @@ tags:
 - electronics
 - bluetooth
 title: Adding Bluetooth Apt-X Low Latency to AM/FM radio
-published: false
+published: true
 
 ---
 # Goal
