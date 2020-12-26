@@ -57,13 +57,23 @@ In the photo below, the PCB trace in blue is the original audio signal from RF I
 
 The original power of the BTRx was a 300-ish mAh lipo battery. It quickly wore out, and I hacked another battery in its place, but added a plug for easier future replacement. I leveraged this plug to easily power the BTRx from the Panasonic radio's source, which is ultimately 4 AA batteries.
 
-I first tried to tie into the regulated power used for the RF IC, and did. However, it turns out the voltage was just under the threshold the BTRx used to determine "low battery", so periodically, I got low battery warning sounds. Annoying. 
+I first tried to tie into the regulated power used for the RF IC, and did. However, it turns out the voltage was just under the threshold the BTRx used to determine "low battery", so periodically, I got low battery warning sounds. Annoying.
 
 The second attempt was to use an adjustable buck voltage regulator. I had one laying around, which are available for less than 1 USD at various online stores. I adjusted it to output 4v from the input, which is about 5.2v with 4 NiMH rechargables powering the radio. I wired this up to the switched power pins at the physical "OFF/FM/AM" switch.
 
 The images below shows the 2-pin connector added to the BTRx, and the voltage regulator. Sadly, I didn't get photos of the final interior installation of this second attempt.
 
 ![](/uploads/btrx-power-connector.jpg)![](/uploads/voltage-reg.jpg)
+
+## Mounting
+
+For a quick 'n' dirty hack, I simply cut out a slot at the top of the radio case to gain access to the BTRx buttons (which is required for bluetooth pairing and volume). Another hole was cut, very very roughly, for the switch that selects between radio and bluetooth signals. The speaker is quite large and bulky (I did say I wanted a nice clear sound), but there was barely enough space to squeeze this in. 
+
+![](/uploads/mounting-1.jpg)
+
+## Operation
+
+The radio works wonderfully! The battery life is much better than the originals, which was separate BTRx and portable speaker. The sound is much better, too. And ultimately, I didn't pay anything extra for this project :-) Thank me later, landfills and ocean.
 
 ## Other possible hacks
 
