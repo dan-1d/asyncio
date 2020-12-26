@@ -8,14 +8,14 @@ published: true
 ---
 # Goal
 
-The mission: integrate a bluetooth Apt-X Low Latency receiver into an AM/FM portable radio to use for watching TV (with a matching Apt-X Low Latency Transmitter); do it in a few hours' of effort using on-hand materials.
+The mission: integrate a bluetooth Apt-X Low Latency receiver into an AM/FM portable radio to use for watching TV (with a matching Apt-X Low Latency Transmitter); do it in a few hours of effort using on-hand materials.
 
 ![](/uploads/bt-radio-final.jpg)
 
-I had a Panasonic RF-2400D, which is a fabulously simple audio device - it receives AM and FM radio. However, I wanted a higher-quality audio that a pretty terrible portable speaker I had been using for watching TV. The proposal was to integrate a Bluetooth Apt-X Low Latency receiver (BT-Rx) into this radio. A few problems needed to be solved:
+I had a Panasonic RF-2400D, which is a fabulously simple audio device - it receives AM and FM radio. I wanted to use this for higher-quality audio that a pretty terrible portable Bluetooth speaker I had been using for watching TV. The proposal was to integrate a Bluetooth Apt-X Low Latency receiver (BT-Rx) into this radio. A few problems needed to be solved:
 
 * Find the line-out audio signal from the RF processing chip
-  * Engineer a solution to multiplex the AM/FM signal and the line-out from the BT Rx to the audio amplifier.
+* Engineer a solution to multiplex the AM/FM signal and the line-out from the BT Rx to the audio amplifier.
 * Combine stereo output from Bluetooth to mono
 * Adapt the existing power sources to permanently power the BTRx
 * Physically mount the BTRx
@@ -55,11 +55,11 @@ In the photo below, the PCB trace in blue is the original audio signal from RF I
 
 ## Power Source
 
-The original power of the BTRx was a 300-ish mAh lipo battery. It quickly wore out, and I hacked another battery in its place, but added a plug for easier future replacement. I leveraged this plug to easily power the BTRx from the Panasonic radio's source, which is ultimately 4 AA batteries.
+The original power of the BTRx was a 300-ish mAh lipo battery. It quickly wore out, and I hacked another battery in its place, but added a 2-pin connector for easier future replacement. This modification probably deserves another . I leveraged this connector to easily power the BTRx from the Panasonic radio's source, which is ultimately 4 AA batteries.
 
 I first tried to tie into the regulated power used for the RF IC, and did. However, it turns out the voltage was just under the threshold the BTRx used to determine "low battery", so periodically, I got low battery warning sounds. Annoying.
 
-The second attempt was to use an adjustable buck voltage regulator. I had one laying around, which are available for less than 1 USD at various online stores. I adjusted it to output 4v from the input, which is about 5.2v with 4 NiMH rechargables powering the radio. I wired this up to the switched power pins at the physical "OFF/FM/AM" switch.
+The second attempt was to use an adjustable buck voltage regulator. I had one laying around, which are available for less than 1 USD at various online stores. I adjusted it to output 4v. For reference, the input is about 5.2v with 4 NiMH rechargables powering the radio, which may have worked directly to the BTRx, but I didn't want to risk overvolting it's regulator. I wired this up to the switched power pins at the physical "OFF/FM/AM" switch.
 
 The images below shows the 2-pin connector added to the BTRx, and the voltage regulator. Sadly, I didn't get photos of the final interior installation of this second attempt.
 
@@ -67,7 +67,7 @@ The images below shows the 2-pin connector added to the BTRx, and the voltage re
 
 ## Mounting
 
-For a quick 'n' dirty hack, I simply cut out a slot at the top of the radio case to gain access to the BTRx buttons (which is required for bluetooth pairing and volume). Another hole was cut, very very roughly, for the switch that selects between radio and bluetooth signals. The speaker is quite large and bulky (I did say I wanted a nice clear sound), but there was barely enough space to squeeze this in. 
+For a quick 'n' dirty hack, I simply cut out a slot at the top of the radio case to gain access to the BTRx buttons (which is required for bluetooth pairing and volume). Another hole was cut, very very roughly, for the switch that selects between radio and bluetooth signals. The speaker is quite large and bulky (I did say I wanted a nice clear sound), but there was barely enough space to squeeze this in.
 
 ![](/uploads/mounting-1.jpg)
 
