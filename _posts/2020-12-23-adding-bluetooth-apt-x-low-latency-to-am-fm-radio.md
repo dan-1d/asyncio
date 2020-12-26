@@ -59,7 +59,7 @@ The original power of the BTRx was a 300-ish mAh lipo battery. It quickly wore o
 
 I first tried to tie into the regulated power used for the RF IC, and did. However, it turns out the voltage was just under the threshold the BTRx used to determine "low battery", so periodically, I got low battery warning sounds. Annoying.
 
-The second attempt 
+The second attempt was to use an adjustable buck voltage regulator. I had one laying around, which are available for less than 1 USD at various online stores. I adjusted it to output 4v from the input, which is about 5.2v with 4 NiMH rechargables powering the radio. I wired this up to the switched power pins at the physical "OFF/FM/AM" switch.
 
 ## Other possible hacks
 
