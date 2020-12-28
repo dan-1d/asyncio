@@ -12,4 +12,5 @@ fields:
   name: permalink
   label: permalink
 pages:
+- about-thermal.md
 - index.md
