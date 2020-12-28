@@ -68,7 +68,7 @@ The images below shows the 2-pin connector added to the BTRx, and the voltage re
 
 ## Mounting
 
-For a quick 'n' dirty hack, I simply cut out a slot at the top of the radio case to gain access to the BTRx buttons (which is required for bluetooth pairing and volume). Another hole was cut, very very roughly, for the switch that selects between radio and bluetooth signals. The speaker is quite large and bulky (I did say I wanted a nice clear sound), but there was barely enough space to squeeze this in.
+For a quick 'n' dirty hack, I simply cut out a slot at the top of the radio case to gain access to the BTRx buttons (which is required for bluetooth pairing and volume). Another hole was cut, very very roughly, for the switch that selects between radio and bluetooth signals. The speaker is quite large and bulky (I did say I wanted a nice clear sound), but there was barely enough space to squeeze this in. Super Glue (cyanoacrylate) gel worked well to secure it to the case.
 
 ![](/uploads/mounting-1.jpg)
 
