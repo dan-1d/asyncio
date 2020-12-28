@@ -5,6 +5,22 @@ fields:
 - type: text
   name: title
   label: title
+- name: modified_date
+  type: datetime
+  label: Modified Date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+  default: now
+- name: published
+  type: boolean
+  label: published
+  description: Publish page now
+  hidden: false
+  default: true
 - type: text
   name: permalink
   label: permalink
@@ -12,21 +28,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: published
-  type: boolean
-  label: published
-  description: Publish page now
-  hidden: false
-  default: true
-- name: modified_date
-  type: datetime
-  label: Modified Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
 pages:
 - _posts/2020-12-23-adding-bluetooth-apt-x-low-latency-to-am-fm-radio.md
 - _posts/2020-12-23-hello-world-obligatory.md
