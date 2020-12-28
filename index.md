@@ -11,4 +11,4 @@ layout: default
 
     <a href="{{ post.url }}">{{ post.title }}</a><br>
 
-{% endfor %} </ul>
+{% endfor %}
