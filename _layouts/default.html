@@ -41,13 +41,24 @@
 		
           {{ content }}
 		
-	  {% if post.tags.size > 0 %}
-	    Tag{% if post.tags.size > 1 %}s{% endif %}:
-	    {{ post.tags | sort | join: ", " }}
-	  {% endif %}
         </section>
 
         <footer>
+	First Tag Attempt:<br>
+	{% for tag in post.tags %}
+	  {% assign tag_slug = tag | slugify: "raw" %}
+	  <a class="tag-link"
+	    href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+	    rel="category tag">
+	    #{{ tag }}
+	  </a>
+	{% endfor %}
+	Second Tag Attempt:<br>
+	{% if post.tags.size > 0 %}
+          Tag{% if post.tags.size > 1 %}s{% endif %}:
+	  {{ post.tags | sort | join: ", " }}
+	{% endif %}
+
         {% if site.github.is_project_page %}
         {% endif %}
         </footer>
