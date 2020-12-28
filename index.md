@@ -1,15 +1,16 @@
 ---
-title: Async I/O
+title: Asynchronous I/O
 layout: default
+
 ---
-# Asynchronous I/O
+# 
 
-## At unexpected intervals, information on technology and culture.
+## At irregular intervals, information on technology, hobbies, and culture.
 
-<ul>
-{% for post in site.posts %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-</ul>
+### Posts
+
+ {% for post in site.posts %}  
+
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+
+{% endfor %} </ul>
