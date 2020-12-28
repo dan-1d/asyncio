@@ -2,9 +2,9 @@
 tags:
 - electronics
 - bluetooth
-title: Adding Bluetooth Apt-X Low Latency to AM/FM radio
-modified_date: 2020-12-27 00:00:00 -0800
-published: true
+title: Hacking Bluetooth Apt-X Low Latency into AM/FM radio
+modified_date: 2020-12-27T00:00:00.000-08:00
+published: false
 
 ---
 # Goal
