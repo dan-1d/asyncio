@@ -3,8 +3,6 @@ title: Asynchronous I/O
 layout: default
 
 ---
-# 
-
 ## At irregular intervals, information on technology, hobbies, and culture.
 
 ### Posts
