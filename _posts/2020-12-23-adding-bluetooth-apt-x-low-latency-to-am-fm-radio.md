@@ -4,7 +4,7 @@ tags:
 - bluetooth
 title: Hacking Bluetooth Apt-X Low Latency into AM/FM radio
 modified_date: 2020-12-27T00:00:00.000-08:00
-published: false
+published: true
 
 ---
 # Goal
