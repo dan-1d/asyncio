@@ -44,7 +44,6 @@
         </section>
 
         <footer>
-	First Tag Attempt:<br>
 	{% for tag in post.tags %}
 	  {% assign tag_slug = tag | slugify: "raw" %}
 	  <a class="tag-link"
@@ -52,8 +51,7 @@
 	    rel="category tag">
 	    #{{ tag }}
 	  </a>
-	{% endfor %}
-	Second Tag Attempt:<br>
+	{% endfor %}	
 	{% if post.tags.size > 0 %}
           Tag{% if post.tags.size > 1 %}s{% endif %}:
 	  {{ post.tags | sort | join: ", " }}
