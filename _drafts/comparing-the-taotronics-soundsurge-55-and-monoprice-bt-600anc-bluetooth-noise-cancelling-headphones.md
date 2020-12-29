@@ -32,12 +32,24 @@ My first try was the TaoTronics Soundsurge 55. Overall, these seemed like a good
 
 I would rate the noise cancelling quite good. It doesn't block human voices totally, but mutes most any other sounds.
 
-Build quality felt decent. I love the tactile button feel. However, I always pushed buttons when grabbing the headphones to remove or reposition -- they felt placed a bit wrong for my habits. 
+Build quality felt decent. I love the tactile button feel. However, I always pushed buttons when grabbing the headphones to remove or reposition -- they felt placed a bit wrong for my habits.
 
 ## Monoprice BT-600ANC
 
 My second try was the Monoprice BT-600ANC. Monoprice is a long-time player in home audio equipment, even though they are not extremely well-known outside of some internet circles. The BT-600ANC seems relatively new, and I couldn't find reviews about it. Nevertheless, I took the chance.
 
-These were immensely comfortable. My ears felt much happier!
+These were immensely more comfortable on my noggin. My ears felt much happier!
 
-Touch pad sometimes doesn't sense double tap to pause. Very loud and obnoxious voice when changing modes. Volume controls don't work in zoom.
+Certain aspects of the build quality seemed better, such as a headband that is wrapped in (faux) gray leather  all the way around, as are the earcup externals. The 3-axis pivot mechanisms for the earcup a help comfort, but I do worry about their strength. The buttons are not as pleasing to push, to me, as the Taotronics, although there are only three.
+
+Annoyingly, a very loud voice announces changes in ANC modes. It is such a bad design decision! Toggling from full ANC to zero ANC requires two presses of the button, and waiting through both announcements - quickly pressing twice doesn't seem to work.
+
+Volume and audio controls are done through a touch pad on the right earcup. Swipe up for louder, forward for next track, etc. Pausing and resuming music is done with a double tap in the center. If the tapping is not centered, the wearer must try again. Tap tap. Tap tap. It can be annoying versus a physical button. 
+
+A pretty interesting feature is a quick "listen" mode to mute audio and stop ANC, which is done by holding one's hand over the earcup sensor.
+
+I had trouble adjusting volume in Zoom meetings via the headphone touchpad. I had to do it on the computer settings. This may be an issue with Zoom and not the headphones, though.
+
+Music audio quality is excellent through the APT-X HD codec. I'm not an audiophile, and won't give a full rundown of it's frequency response, but it sounded better than the Taotronics Soundsurge 55. _Crisper_ is perhaps the right word.
+
+The pressure from the Monoprice BT-600ANC headband is less than the Soundsurge, which made it more comfortable, but it may have slightly less noise cancelling and isolation as a result.
