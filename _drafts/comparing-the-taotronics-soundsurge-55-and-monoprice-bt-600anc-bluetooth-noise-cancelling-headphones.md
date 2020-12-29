@@ -61,8 +61,8 @@ Sadly, after a day of use, the right headphone started cracking and popping when
 
 ## Conclusion
 
-Based on my selection criteria, I am apt to choose the Monoprice (pending successful replacement of the defective copy I got) due to the increased comfort. I actually prefer the physical buttons of the Taotronics and its ANC implementation. The improved sound quality of the Monoprice BT-600ANC is nice, as well.
+Based on my selection criteria, I am apt to choose the Monoprice (pending successful replacement of the defective copy I got) due to the increased comfort. I actually prefer the physical buttons of the Taotronics and its ANC implementation. The improved sound quality of the Monoprice BT-600ANC is nice, as well. I'll just have to live with its annoying touch-control features.
 
-Meeting audio quality from my voice seemed great on both.
+Meeting audio quality from my voice seemed great on both. Battery life seemed similar for both.
 
 ![](/uploads/pxl_20201211_022702045_resize.jpg)![](/uploads/pxl_20201211_022714795_resize.jpg)
