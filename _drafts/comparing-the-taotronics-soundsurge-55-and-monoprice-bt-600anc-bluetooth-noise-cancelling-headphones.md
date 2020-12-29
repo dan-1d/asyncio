@@ -4,31 +4,34 @@ tags:
 - bluetooth
 - headphones
 - anc
-title: Comparing the TaoTronics Soundsurge 55 and Monoprice BT-600ANC Bluetooth Noise-cancelling
-  headphones
+title: 'Cheap-enough ANC Headphones: TaoTronics Soundsurge 55 and Monoprice BT-600ANC '
 modified_date: 
 published: false
 
 ---
-# Cheap-enough ANC
-
 ## Comparing the TaoTronics Soundsurge 55 and Monoprice BT-600ANC Bluetooth Noise-cancelling headphones
 
 I needed headphones for use at work. The primary goals, in order of importance:
 
-1. Comfortable
-2. Quality of microphone for use during meetings
-3. (active) noise cancelling (ANC) or isolation
-4. wireless for easy use with both phone (music) and work laptop (meetings)
+1. Comfortable for extended use.
+2. Quality of microphone for use during meetings.
+3. (active) noise cancelling (ANC) or isolation.
+4. wireless for easy use with both phone (music) and work laptop (meetings).
 
 I narrowed my search down to fairly inexpensive bluetooth headphones with ANC and, critically, [cVc 8.0](https://www.qualcomm.com/products/features/cvc-noise-cancellation-technology "cVc 8.0") for better isolation of my own voice during meetings. I tried:
 
 * TaoTronics SoundSurge 55
 * Monoprice BT-600ANC
 
+Both models use USB-C and have a 3.5mm stereo input jack for wired audio. Both arrived with nice zippered cases, with the Monoprice being smaller.
+
+![](/uploads/pxl_20201211_022052485_resize.jpg)
+
+![](/uploads/pxl_20201211_022231536_resize.jpg)
+
 ## TaoTronics Soundsurge 55
 
-My first try was the TaoTronics Soundsurge 55. Overall, these seemed like a good choice. They paired easily, buttons felt good, sound quality was acceptable. I used them for several days, but the comfort was not there, at least for my head and ear shape. I got hot spots after several hours, and the horizontal pressure was quite high. I think the cavity for ears is just a few millimeters too small, probably in the vertical direction, and perhaps depth, too. This could also be due to the lack of a "horizontal axis" of rotation for each ear cup -- they are fixed, and only rotate around the "vertical axis" when pressing into the head.
+My first pick was the TaoTronics Soundsurge 55. Overall, these seemed like a good choice. They paired easily, buttons felt good, sound quality was acceptable. I used them for several days, but the comfort was not there, at least for my head and ear shape. I got hot spots after several hours, and the horizontal pressure was quite high. I think the cavity for ears is just a few millimeters too small, probably in the vertical direction, and perhaps depth, too. This could also be due to the lack of a "horizontal axis" of rotation for each ear cup -- they are fixed, and only rotate around the "vertical axis" when pressing into the head.
 
 I would rate the noise cancelling quite good. It doesn't block human voices totally, but mutes most any other sounds.
 
@@ -44,7 +47,7 @@ Certain aspects of the build quality seemed better, such as a headband that is w
 
 Annoyingly, a very loud voice announces changes in ANC modes. It is such a bad design decision! Toggling from full ANC to zero ANC requires two presses of the button, and waiting through both announcements - quickly pressing twice doesn't seem to work.
 
-Volume and audio controls are done through a touch pad on the right earcup. Swipe up for louder, forward for next track, etc. Pausing and resuming music is done with a double tap in the center. If the tapping is not centered, the wearer must try again. Tap tap. Tap tap. It can be annoying versus a physical button. 
+Volume and audio controls are done through a touch pad on the right earcup. Swipe up for louder, forward for next track, etc. Pausing and resuming music is done with a double tap in the center. If the tapping is not centered, the wearer must try again. Tap tap. Tap tap. It can be annoying versus a physical button.
 
 A pretty interesting feature is a quick "listen" mode to mute audio and stop ANC, which is done by holding one's hand over the earcup sensor.
 
@@ -53,3 +56,13 @@ I had trouble adjusting volume in Zoom meetings via the headphone touchpad. I ha
 Music audio quality is excellent through the APT-X HD codec. I'm not an audiophile, and won't give a full rundown of it's frequency response, but it sounded better than the Taotronics Soundsurge 55. _Crisper_ is perhaps the right word.
 
 The pressure from the Monoprice BT-600ANC headband is less than the Soundsurge, which made it more comfortable, but it may have slightly less noise cancelling and isolation as a result.
+
+Sadly, after a day of use, the right headphone started cracking and popping when ANC was turned on. I have made an RMA for a replacement, and will update this article as needed. I may just be unlucky, and can't extrapolate quality issues from this datapoint-of-one.
+
+## Conclusion
+
+Based on my selection criteria, I am apt to choose the Monoprice (pending successful replacement of the defective copy I got) due to the increased comfort. I actually prefer the physical buttons of the Taotronics and its ANC implementation. The improved sound quality of the Monoprice BT-600ANC is nice, as well.
+
+Meeting audio quality from my voice seemed great on both.
+
+![](/uploads/pxl_20201211_022702045_resize.jpg)![](/uploads/pxl_20201211_022714795_resize.jpg)
