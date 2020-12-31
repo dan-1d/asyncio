@@ -6,8 +6,7 @@ description: ''
 ---
 {% for post in site.posts %}
 
-<h3> <a href="{{ post.url }}">{{ post.title }}</a></h3><br> 
-
+<h3> <a href="{{ post.url }}">{{ post.title }}</a></h3>  
 {{ post.description }}
 
 {% endfor %}
