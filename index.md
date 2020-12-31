@@ -5,10 +5,10 @@ layout: default
 ---
 ## At irregular intervals, information on technology, hobbies, and culture.
 
-### Posts
+![](/uploads/grass_banner.JPG)
 
- {% for post in site.posts %}  
+{% for post in site.posts %}
 
-<a href="{{ post.url }}">{{ post.title }}</a><br>
+<h3> <a href="{{ post.url }}">{{ post.title }}</a><br> </h3>
 
 {% endfor %}
