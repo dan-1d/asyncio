@@ -1,6 +1,6 @@
 ---
 modified_date: 2021-01-01 14:00:29 -0800
-published: false
+published: true
 tags:
 - R/C airplane
 - composite construction
