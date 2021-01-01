@@ -5,7 +5,7 @@ tags:
 - headphones
 - anc
 title: Cheap-enough ANC Headphones
-modified_date: 2020-12-31 00:00:00 -0800
+modified_date: 2021-01-01 00:00:00 -0800
 description: 'TaoTronics Soundsurge 55 and Monoprice BT-600ANC '
 published: false
 
