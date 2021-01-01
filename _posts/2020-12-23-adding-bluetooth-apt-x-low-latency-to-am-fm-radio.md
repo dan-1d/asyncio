@@ -3,7 +3,7 @@ tags:
 - electronics
 - bluetooth
 title: Hacking AM/FM radio to add Bluetooth Apt-X Low Latency
-modified_date: 2020-12-27T00:00:00.000-08:00
+modified_date: 2021-01-01 00:00:00 -0800
 description: Learn how the radio circuitry was modified in a few hours to insert a
   bluetooth receiver and "source select" switch.
 published: true
