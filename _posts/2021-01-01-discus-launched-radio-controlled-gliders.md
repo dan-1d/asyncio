@@ -20,9 +20,9 @@ Why is this so fun? What is the appeal of no engine? Well, it turns flying an R/
 
 # Acquiring
 
-DLGs are most often constructed as high-performance aircraft, typically hand-built in the numbers of "dozens per year" by each manufacturer (of a few people in total size). Typical construction is carbon fiber and epoxy with special foam-cores for wings and tails. 
+DLGs are most often constructed as high-performance aircraft, typically hand-built in the numbers of "dozens per year" by each manufacturer (of a few people in total size). Typical construction is carbon fiber and epoxy with special foam-cores for wings and tails. The 1.5 meter wingspan aircraft weight between 200-260 grams, typically! Not only that, but they also are able to withstand extreme forces during launch.
 
-They are expensive to the uninitiated, with new models ranging in price from USD$680 to $1000. Luckily, most pilots new to the hobby buy a previously-loved used model for between $250-$500. The floor price rarely drops below this, so they are often resold after the addition takes hold. There are a few models cheaper than this, and while they might be suitable in some situations, it is generally much more desirable to own a contemporary composite-built glider. They fly better, are much more durable, and have better resale value. 
+They are expensive to the uninitiated, with new models ranging in price from USD$680 to $1000. Luckily, most pilots new to the hobby buy a previously-loved used model for between $250-$500. The floor price rarely drops below this, so they are often resold after the addition takes hold. There are a few models cheaper than this, and while they might be suitable in some situations, it is generally much more desirable to own a contemporary composite-built glider. They fly better, are much more durable, and have better resale value.
 
 A few bold individuals decide to create their own DLG from scratch. This is not for the faint-of-heart, but is certainly possible!
 
@@ -30,7 +30,7 @@ A few bold individuals decide to create their own DLG from scratch. This is not 
 
 Go to a contest if you want to meet others interested in powerless flight! Your skill level doesn't matter, and it is probably more important to chat if your experience is less.
 
-The "F3K" style contest is organized in a number of _rounds_ (usually 10 minutes long, each) with each round being assigned a _task_ from the official task list. These tasks are formulated based on _flight time_. The flight times contribute to a pilots _score_ or _points_ for the round. The optimal flight times depend on the task. 
+The "F3K" style contest is organized in a number of _rounds_ (usually 10 minutes long, each) with each round being assigned a _task_ from the official task list. These tasks are formulated based on _flight time_. The flight times contribute to a pilots _score_ or _points_ for the round. The optimal flight times depend on the task.
 
 For example, _Task A: Last Flight_ is a task that scores only the last flight that a pilot makes in the 10-minute task window. If a pilot is struggling to find lift, and manages a 3:00 minute flight, he or she may decide to not launch again even if time is left (since if the next flight is shorter, it would be fewer points!).
 
