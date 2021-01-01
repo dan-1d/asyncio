@@ -31,3 +31,9 @@ Throughput:
 ### Root Cause
 
 I'll update this post if I find one. I suspect it is due to an inefficient algorithm or method inherent to Hyperbackup rather than hardware-specific reasons. There are some posts on Reddit and Synology forums that voice similar concerns, although not to the extreme slowness of my example. Those other posts may have been for the "plus/+" models that have a much more powerful CPU, and despite that, they were still slow.
+
+## Conclusion
+
+I can only hope I don't need to rely on hyperbackup, and that as I add information to it, it can grow over years, rather than wait for 30 days to complete.
+
+An alternative backup solution is to manually copy the files periodically in an ad-hoc fashion. Ughhh. Welcome to 1990.. To this method's benefit, my father has been doing this for decades and has access to all his data, from all time, in raw file format.
