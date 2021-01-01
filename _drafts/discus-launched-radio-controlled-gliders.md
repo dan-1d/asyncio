@@ -18,7 +18,9 @@ Why is this so fun? What is the appeal of no engine? Well, it turns flying an R/
 
 # Acquiring
 
-DLGs are most often constructed as high-performance aircraft, typically hand-built in the numbers of "dozens per year" by each manufacturer (of a few people in total size). They are expensive to the uninitiated, with new models ranging in price from USD$680 to $1000. Luckily, most pilots new to the hobby buy a previously-loved used model for between $250-$500. The floor price rarely drops below this, so they are often resold after the addition takes hold.
+DLGs are most often constructed as high-performance aircraft, typically hand-built in the numbers of "dozens per year" by each manufacturer (of a few people in total size). Typical construction is carbon fiber and epoxy with special foam-cores for wings and tails. 
+
+They are expensive to the uninitiated, with new models ranging in price from USD$680 to $1000. Luckily, most pilots new to the hobby buy a previously-loved used model for between $250-$500. The floor price rarely drops below this, so they are often resold after the addition takes hold. There are a few models cheaper than this, and while they might be suitable in some situations, it is generally much more desirable to own a contemporary composite-built glider. They fly better, are much more durable, and have better resale value. 
 
 A few bold individuals decide to create their own DLG from scratch. This is not for the faint-of-heart, but is certainly possible!
 
