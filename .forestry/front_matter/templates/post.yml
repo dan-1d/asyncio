@@ -35,6 +35,6 @@ fields:
   label: tags
 pages:
 - _posts/2020-12-23-adding-bluetooth-apt-x-low-latency-to-am-fm-radio.md
+- _posts/2021-01-01-synology-hyperbackup-is-disturbingly-slow.md
 - _posts/comparing-the-taotronics-soundsurge-55-and-monoprice-bt-600anc-bluetooth-noise-cancelling-headphones.md
-- _posts/synology-hyperbackup-is-disturbingly-slow.md
 - _posts/tomato-wine.md
