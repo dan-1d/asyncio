@@ -16,7 +16,7 @@ A radio controlled (R/C) Discus-launched Glider (DLG) is thrown by the pilot fro
 
 Why is this so fun? What is the appeal of no engine? Well, it turns flying an R/C aircraft into **A game of skill _and chance_**, not only from simply controlling the glider, but in learning to "read" the conditions and find lift. Plowing through the sky with a motor has its appeal, too, but does not have the same excitement of "catching a thermal". It may be considered similar to catching a fish! Both skill and luck are required, and the anticipation of the unknown contributes to the addiction.
 
-![](/uploads/img_20200718_124858_resize.jpg)![](/uploads/img_5066_resize.jpg)
+![](/uploads/img_20200718_124858_resize.jpg)![](/uploads/launch1.JPG)
 
 # Acquiring
 
@@ -36,6 +36,8 @@ For example, _Task A: Last Flight_ is a task that scores only the last flight th
 
 Thus, development and execution of **strategy** is a large part of the appeal of flying in contests. Not only is it a game with Mother Nature (micrometeorology) but against fellow pilots!
 
+![](/uploads/img_5066_resize.jpg)
+
 # Other Helpful Links
 
 [https://www.rcgroups.com/hand-launch-96/](https://www.rcgroups.com/hand-launch-96/ "DLG (Hand-launch Glider) forum on RCGroups.com")  
@@ -46,3 +48,5 @@ Look out for keywords "DLG" attached to a model name. Popular ones include: "Sni
 
 [http://www.teamusaf3k.com/?page_id=149](http://www.teamusaf3k.com/?page_id=149 "http://www.teamusaf3k.com/?page_id=149")  
 F3K rules and task descriptions (Note, this page is old, and has been changed; Sadly the FAI organization does not easily provide these.. I'll link to the updated rules when I find them)
+
+![](/uploads/launch2.JPG)
