@@ -10,6 +10,8 @@ description: In introduction to DLG aircraft and competition.
 ---
 # DLG Intro
 
+### It is a wonderful feeling to watch a glider thrown from your own hand circling like a hawk, rising hundreds of feet.
+
 A radio controlled (R/C) Discus-launched Glider (DLG) is thrown by the pilot from a wingtip to heights of up to 260 feet. The pilot then controls it, searching for lift in the air -- namely, thermals (rising warm air) and object-induced lift (wind hitting a hill and going upwards). There are contests (competitions) that test pilots' skill in finding this lift, strategies, and launch technique. In contest form, **this type of flying is FAI class F3K**. For more information on R/C aircraft in general, please see [https://www.modelaircraft.org/](https://www.modelaircraft.org/ "https://www.modelaircraft.org/")
 
 Why is this so fun? What is the appeal of no engine? Well, it turns flying an R/C aircraft into **A game of skill _and chance_**, not only from simply controlling the glider, but in learning to "read" the conditions and find lift. Plowing through the sky with a motor has its appeal, too, but does not have the same excitement of "catching a thermal". It may be considered similar to catching a fish! Both skill and luck are required, and the anticipation of the unknown contributes to the addiction.
