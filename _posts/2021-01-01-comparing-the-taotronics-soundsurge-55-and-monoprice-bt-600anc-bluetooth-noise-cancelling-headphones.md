@@ -4,7 +4,7 @@ tags:
 - bluetooth
 - headphones
 - anc
-title: Cheap-enough ANC Headphones
+title: Cheap-enough ANC Headphones Review
 modified_date: 2021-01-01 00:00:00 -0800
 description: 'TaoTronics Soundsurge 55 and Monoprice BT-600ANC '
 published: true
