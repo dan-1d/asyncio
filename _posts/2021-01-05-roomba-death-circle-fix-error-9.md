@@ -19,3 +19,5 @@ Use 4 inch pieces of solid guitar wire bent to form a mounting "U", and a lever 
 Roomba is thus undead.
 
 ![](/uploads/roomba-bumper-fix.jpg)
+
+A great writeup of detailed repair options for those Roombas with more severe malfunctions is available at: [https://www.schneordesign.com/diy/diy-irobot-roomba/9beep/](https://www.schneordesign.com/diy/diy-irobot-roomba/9beep/ "https://www.schneordesign.com/diy/diy-irobot-roomba/9beep/")
