@@ -1,11 +1,11 @@
 ---
-modified_date: 2020-12-31 14:00:29 -0800
-published: true
+modified_date: 2020-12-31T14:00:29.000-08:00
 tags:
 - R/C airplane
 - composite construction
 title: Discus Launched (radio controlled) Gliders
-description: In introduction to DLG aircraft and competition.
+description: An introduction to DLG aircraft and competition.
+published: true
 
 ---
 # DLG Intro
