@@ -5,9 +5,9 @@ tags:
 - headphones
 - anc
 title: Cheap-enough ANC Headphones Review
-modified_date: 2021-01-01 00:00:00 -0800
+modified_date: 2021-01-16 00:00:00 -0800
 description: 'TaoTronics Soundsurge 55 and Monoprice BT-600ANC '
-published: true
+published: false
 
 ---
 ## Comparing the TaoTronics Soundsurge 55 and Monoprice BT-600ANC Bluetooth Noise-cancelling headphones
@@ -58,7 +58,7 @@ Music audio quality is excellent through the APT-X HD codec. I'm not an audiophi
 
 The pressure from the Monoprice BT-600ANC headband is less than the Soundsurge, which made it more comfortable, but it may have slightly less noise cancelling and isolation as a result.
 
-Sadly, after a day of use, the right headphone started cracking and popping when ANC was turned on. I have made an RMA for a replacement, and will update this article as needed. I may just be unlucky, and can't extrapolate quality issues from this datapoint-of-one.
+Sadly, after a day of use, the right headphone started cracking and popping when ANC was turned on. I have made an RMA for a replacement, and will update this article as needed. I may just be unlucky, and can't extrapolate quality issues from this datapoint-of-one. Update (1/16/2021): the replacement seems to be working well!
 
 ## Conclusion
 
