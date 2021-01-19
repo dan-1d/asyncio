@@ -25,9 +25,11 @@ I had a Panasonic RF-2400D, which is a fabulously simple audio device - it recei
 
 In short, all these things were done, although the power adaption took a few tries.
 
-If you're following along at home and want to try something similar, I highly recommend the following soldering station. I have been through several varieties from Radio Shack irons, cheap-from-Aliexpress ones, but none has even been close to ease-of-use and quality. Check it out: 
+If you're following along at home and want to try something similar, I highly recommend the following soldering station. I have been through several varieties from Radio Shack irons, cheap-from-Aliexpress ones, but none has even been close to ease-of-use and quality. Check it out:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=thermal002-20&marketplace=amazon&amp;region=US&placement=B01DGZFSNE&asins=B01DGZFSNE&linkId=b4592e9570aedb9ade42c0a94ff9beb9&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=thermal002-20&marketplace=amazon&amp;region=US&placement=B01DGZFSNE&asins=B01DGZFSNE&linkId=b4592e9570aedb9ade42c0a94ff9beb9&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+
+    </iframe>
 
 ## Stereo to Mono
 
