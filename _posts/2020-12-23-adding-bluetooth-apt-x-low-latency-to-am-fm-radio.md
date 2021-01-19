@@ -27,9 +27,7 @@ In short, all these things were done, although the power adaption took a few tri
 
 If you're following along at home and want to try something similar, I highly recommend the following soldering station. I have been through several varieties from Radio Shack irons, cheap-from-Aliexpress ones, but none has even been close to ease-of-use and quality. Check it out:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=thermal002-20&marketplace=amazon&amp;region=US&placement=B01DGZFSNE&asins=B01DGZFSNE&linkId=b4592e9570aedb9ade42c0a94ff9beb9&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-
-    </iframe>
+<a target="_blank" href="[https://www.amazon.com/gp/product/B01DGZFSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DGZFSNE&linkCode=as2&tag=thermal002-20&linkId=290825470f5d8b3626338f7a7359dc70](https://www.amazon.com/gp/product/B01DGZFSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DGZFSNE&linkCode=as2&tag=thermal002-20&linkId=290825470f5d8b3626338f7a7359dc70 "https://www.amazon.com/gp/product/B01DGZFSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DGZFSNE&linkCode=as2&tag=thermal002-20&linkId=290825470f5d8b3626338f7a7359dc70")">X-Tronic Model 3020-XTS Digital Display Soldering Iron Station </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=thermal002-20&l=am2&o=1&a=B01DGZFSNE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Stereo to Mono
 
