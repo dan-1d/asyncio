@@ -15,7 +15,9 @@ The mission: integrate a bluetooth Apt-X Low Latency receiver into an AM/FM port
 
 ![](/uploads/bt-radio-final.jpg)
 
-I had a Panasonic RF-2400D, which is a fabulously simple audio device - it receives AM and FM radio. I wanted to use this for higher-quality audio that a pretty terrible portable Bluetooth speaker I had been using for watching TV. The proposal was to integrate a Bluetooth Apt-X Low Latency receiver (BT-Rx) into this radio. A few problems needed to be solved:
+I have a[ Panasonic RF-2400D](https://www.amazon.com/gp/product/B00007KDX6/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thermal002-20&linkId=9ee2ee294e170428dacc1eae53834905&language=en_US "Panasonic RF-2400D ") (I may earn a small commission from this link, thanks!), which is a fabulously simple audio device - it receives AM and FM radio. I wanted to use this for higher-quality audio that a pretty terrible portable Bluetooth speaker I had been using for watching TV. The proposal was to integrate a Bluetooth Apt-X Low Latency receiver (BT-Rx) into this radio. 
+
+A few problems needed to be solved:
 
 * Find the line-out audio signal from the RF processing chip
 * Engineer a solution to multiplex the AM/FM signal and the line-out from the BT Rx to the audio amplifier.
@@ -25,9 +27,14 @@ I had a Panasonic RF-2400D, which is a fabulously simple audio device - it recei
 
 In short, all these things were done, although the power adaption took a few tries.
 
-If you're following along at home and want to try something similar, I highly recommend the following soldering station. I have been through several varieties from Radio Shack irons, cheap-from-Aliexpress ones, but none has even been close to ease-of-use and quality. Check it out:
+If you're following along at home and want to try something similar, I highly recommend the following soldering station. I have been through several varieties from Radio Shack irons, cheap-from-Aliexpress ones, but none has even been close to ease-of-use and quality. Check it out in the supplies list.
 
-[X-Tronic Model 3020-XTS Digital Display Soldering Iron Station](https://www.amazon.com/gp/product/B01DGZFSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DGZFSNE&linkCode=as2&tag=thermal002-20&linkId=290825470f5d8b3626338f7a7359dc70 "X-Tronic Model 3020-XTS Digital Display Soldering Iron Station") (I may earn a small commission from this link)
+## Supplies:
+
+* [Panasonic RF-2400D](https://www.amazon.com/gp/product/B00007KDX6/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thermal002-20&linkId=9ee2ee294e170428dacc1eae53834905&language=en_US "Panasonic RF-2400D ") (I may earn a small commission from this link, thanks!)
+* [Bluetooth Apt-X Low Latency Receiver](https://www.amazon.com/TROND-Bluetooth-Transmitter-Indicator-Simultaneously/dp/B01K8ANDCI/ref=as_li_ss_tl?dchild=1&keywords=bluetooth+apt-x+low+latency+receiver+trond&qid=1611472132&s=electronics&sr=1-3&linkCode=ll1&tag=thermal002-20&linkId=f28302f08893e5bd907b08ec71f6617c&language=en_US "Bluetooth Apt-X Low Latency Receiver") (I may earn a small commission from this link, thanks!)
+* [X-Tronic Model 3020-XTS Digital Display Soldering Iron Station](https://www.amazon.com/gp/product/B01DGZFSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DGZFSNE&linkCode=as2&tag=thermal002-20&linkId=290825470f5d8b3626338f7a7359dc70 "X-Tronic Model 3020-XTS Digital Display Soldering Iron Station") (I may earn a small commission from this link)
+*  [Buck Converter](https://www.amazon.com/EBL-Converter-MP2307DN-Regulator-4-75-23V/dp/B08GSGYRGW/ref=as_li_ss_tl?dchild=1&keywords=buck+voltage+converter&qid=1611471508&s=electronics&sr=1-26&linkCode=ll1&tag=thermal002-20&linkId=a890250e8bb0c6e4ab7f1464649969aa&language=en_US "Adjustable voltage converter") (I may earn a small commission on this link purchase)
 
 ## Stereo to Mono
 
@@ -66,7 +73,9 @@ The original power of the BTRx was a 300-ish mAh lipo battery. It quickly wore o
 
 I first tried to tie into the regulated power used for the RF IC, and did. However, it turns out the voltage was just under the threshold the BTRx used to determine "low battery", so periodically, I got low battery warning sounds. Annoying.
 
-The second attempt was to use an adjustable buck voltage regulator. I had one laying around, which are available for less than 1 USD at various online stores. I adjusted it to output 4v. For reference, the input is about 5.2v with 4 NiMH rechargables powering the radio, which may have worked directly to the BTRx, but I didn't want to risk overvolting it's regulator. I wired this up to the switched power pins at the physical "OFF/FM/AM" switch.
+The second attempt was to use an adjustable buck voltage regulator. I had one laying around, which are available for less than 1 USD at various online stores. If you want to try, these seem like they would work well: [Buck Converter](https://www.amazon.com/EBL-Converter-MP2307DN-Regulator-4-75-23V/dp/B08GSGYRGW/ref=as_li_ss_tl?dchild=1&keywords=buck+voltage+converter&qid=1611471508&s=electronics&sr=1-26&linkCode=ll1&tag=thermal002-20&linkId=a890250e8bb0c6e4ab7f1464649969aa&language=en_US "Adjustable voltage converter") (I may earn a small commission on this link purchase).
+
+I adjusted it to output 4v. For reference, the input is about 5.2v with 4 NiMH rechargables powering the radio, which may have worked directly to the BTRx, but I didn't want to risk overvolting it's regulator. I wired this up to the switched power pins at the physical "OFF/FM/AM" switch.
 
 The images below shows the 2-pin connector added to the BTRx, and the voltage regulator. Sadly, I didn't get photos of the final interior installation of this second attempt.
 
