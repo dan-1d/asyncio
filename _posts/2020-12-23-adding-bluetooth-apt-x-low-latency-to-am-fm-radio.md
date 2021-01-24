@@ -39,6 +39,7 @@ If you're following along at home and want to try something similar, I highly re
 * SPDT Slide switch
 * Connectors, as desired, for battery to bluetooth receiver
 * Various wire
+* Resistors (see below for details)
 
 ## Stereo to Mono
 
