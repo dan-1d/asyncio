@@ -7,7 +7,7 @@ tags:
 title: 'ANC Headphones Review: Monoprice BT-600ANC and TaoTronics 55'
 modified_date: 2021-01-17 00:00:00 -0800
 description: 'TaoTronics Soundsurge 55 and Monoprice BT-600ANC '
-published: false
+published: true
 
 ---
 ## Comparing the TaoTronics Soundsurge 55 and Monoprice BT-600ANC Bluetooth Noise-cancelling headphones
