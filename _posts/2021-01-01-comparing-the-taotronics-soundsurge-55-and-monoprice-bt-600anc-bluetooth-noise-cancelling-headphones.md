@@ -4,10 +4,10 @@ tags:
 - bluetooth
 - headphones
 - anc
-title: Cheap-enough ANC Headphones Review
-modified_date: 2021-01-16 00:00:00 -0800
+title: 'ANC Headphones Review: Monoprice BT-600ANC and TaoTronics 55'
+modified_date: 2021-01-17 00:00:00 -0800
 description: 'TaoTronics Soundsurge 55 and Monoprice BT-600ANC '
-published: true
+published: false
 
 ---
 ## Comparing the TaoTronics Soundsurge 55 and Monoprice BT-600ANC Bluetooth Noise-cancelling headphones
@@ -21,8 +21,10 @@ I needed headphones for use at work. The primary goals, in order of importance:
 
 I narrowed my search down to fairly inexpensive bluetooth headphones with ANC and, critically, [cVc 8.0](https://www.qualcomm.com/products/features/cvc-noise-cancellation-technology "cVc 8.0") for better isolation of my own voice during meetings. I tried:
 
-* TaoTronics SoundSurge 55
-* Monoprice BT-600ANC
+* [TaoTronics SoundSurge 55](https://www.amazon.com/gp/product/B081JY4BMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B081JY4BMQ&linkCode=as2&tag=thermal002-20&linkId=63c7c0d11b619703e33fcc180decd638 "TaoTronics SoundSurge 55") 
+* [Monoprice BT-600ANC](https://www.amazon.com/gp/product/B08P6959XC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08P6959XC&linkCode=as2&tag=thermal002-20&linkId=50287b0d0b6a24505a0cb0f11fd02c01 "Monoprice BT-600ANC")
+
+  (I may earn a tiny commission from these links, thanks!)
 
 Both models use USB-C and have a 3.5mm stereo input jack for wired audio. Both arrived with nice zippered cases, with the Monoprice being smaller.
 
