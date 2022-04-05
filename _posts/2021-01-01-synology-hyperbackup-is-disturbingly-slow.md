@@ -6,7 +6,7 @@ tags:
 title: Synology Hyperbackup is disturbingly slow
 description: 'Three Megabytes per second: the Hyperbackup software for Synology NAS
   is unbearably slow'
-published: false
+published: true
 
 ---
 I recently upgraded my Synology DS115j to a [DS220J ](https://www.amazon.com/Synology-DiskStation-Business-Storage-Operating/dp/B097Z21C5W?crid=KK2TJOEA7Y4A&keywords=synology%2Bds220j&qid=1649178627&sprefix=synology%2Bds220j%2Caps%2C233&sr=8-3&th=1&linkCode=ll1&tag=thermal002-20&linkId=a63a5078ba7dbce41f59b5b6fd452880&language=en_US&ref_=as_li_ss_tl "DS220J")and a [10TB Western Digital Red Plus drive](https://www.amazon.com/s?k=WD+Red+plus+10+tb&crid=2TLKWOSWVI6Q1&sprefix=wd+red+plus+10+t%2Caps%2C150&linkCode=ll2&tag=thermal002-20&linkId=36b3135849d7ea2508d2dece9a1127bd&language=en_US&ref_=as_li_ss_tl). (I may earn a small commission from this link, thanks!)
